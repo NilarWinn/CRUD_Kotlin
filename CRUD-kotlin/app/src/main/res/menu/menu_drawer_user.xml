@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_user"
+        android:title="@string/title_profile" />
+    <item
+        android:id="@+id/post_add"
+        android:icon="@drawable/ic_comment_add_solid"
+        android:title="@string/title_post_add" />
+    <item
+        android:id="@+id/post_list"
+        android:icon="@drawable/ic_comments_solid"
+        android:title="@string/title_post_list" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout_solid"
+        android:title="@string/action_logout" />
+</menu>

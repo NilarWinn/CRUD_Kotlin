@@ -1,0 +1,89 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Bulletin Board</string>
+
+    <!-- Action -->
+    <string name="action_back">Back</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_close">Close</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_create">Create</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_download">Download</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_open">Open</string>
+    <string name="action_open_menu">Open Menu</string>
+    <string name="action_open_menu_search">Open Search Menu</string>
+    <string name="action_search">Search</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_update">Update</string>
+    <string name="action_upload">Upload</string>
+
+    <!-- Error -->
+    <string name="error_authorize">Unauthorized Error</string>
+    <string name="error_connection">Connection Error</string>
+    <string name="error_connection_timeout">Connection Timeout</string>
+    <string name="error_download">Unable to Download</string>
+    <string name="error_file_not_supported">File Not Supported</string>
+    <string name="error_require_sth">%s is Required</string>
+    <string name="error_invalid_sth">Invalid %s</string>
+    <string name="error_invalid_sth_with_msg">Invalid %s\n%s</string>
+    <string name="error_password_confirm">Confirm Password should be the same</string>
+    <string name="error_result_empty">No Result Found</string>
+    <string name="error_unknown">Something went wrong</string>
+
+    <!-- Success -->
+    <string name="success_delete">Delete Successfully</string>
+    <string name="success_download">Download Successfully</string>
+    <string name="success_save">Save Successfully</string>
+    <string name="success_update">Update Successfully</string>
+    <string name="success_upload">Upload Successfully</string>
+
+    <!-- Title -->
+    <string name="title">Title</string>
+    <string name="title_address">Address</string>
+    <string name="title_dob">Date of Birth</string>
+    <string name="title_date">25/08/2022</string>
+    <string name="title_description">Description</string>
+    <string name="title_email">Email</string>
+    <string name="title_name">Name</string>
+    <string name="title_password">Password</string>
+    <string name="title_password_change">Password Change</string>
+    <string name="title_password_confirm">Confirm Password</string>
+    <string name="title_password_new">New Password</string>
+    <string name="title_password_old">Old Password</string>
+    <string name="title_phone">Phone</string>
+    <string name="title_post_add">Add New Post</string>
+    <string name="title_post_edit">Edit Post</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_profile_edit">Profile Edit</string>
+    <string name="title_profile_edit_confirm">Profile Edit Confirm</string>
+    <string name="title_profile_img">Profile Image</string>
+    <string name="title_post_create_confirm">Post Create Confirm</string>
+    <string name="title_post_list">Post List</string>
+    <string name="title_status">Status</string>
+    <string name="title_user_add">Add New User</string>
+    <string name="title_user_create_confirm">User Create Confirm</string>
+    <string name="title_user_edit">User Edit</string>
+    <string name="title_user_edit_confirm">User Edit Confirm</string>
+    <string name="title_user_list">User List</string>
+    <string name="title_user_name">User Name</string>
+    <string name="title_user_posts">My Posts</string>
+    <string name="title_user_profile">User Profile</string>
+    <string name="title_user_profile_img">User Profile Image</string>
+    <string name="title_type">Type</string>
+
+    <!-- Message -->
+    <string name="msg_password_invalid">
+        Password must be more than 8 characters long, must contain at least 1 Uppercase and 1 Numeric.
+    </string>
+    <string name="msg_try_again">Please Try Again Later</string>
+
+    <!-- Sample -->
+    <string name="sample_email">aaa@gmail.com</string>
+    <string name="sample_type">User</string>
+</resources>

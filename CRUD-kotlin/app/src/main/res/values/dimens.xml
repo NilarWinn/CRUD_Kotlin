@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    #########################################
+                # Global #
+    #########################################
+    -->
+
+    <!-- Common -->
+    <dimen name="marginSmall">8dp</dimen>
+    <dimen name="marginMedium">16dp</dimen>
+
+    <dimen name="paddingSmall">16dp</dimen>
+    <dimen name="paddingLarge">32dp</dimen>
+
+    <!-- ImageView -->
+    <dimen name="imgSizeXXSmall">16dp</dimen>
+    <dimen name="imgSizeXSmall">24dp</dimen>
+    <dimen name="imgSizeSmall">48dp</dimen>
+    <dimen name="imgSizeMedium">64dp</dimen>
+    <dimen name="imgSizeXXLarge">128dp</dimen>
+
+    <!-- Progress Bar -->
+    <dimen name="progressBarSize">72dp</dimen>
+
+    <!-- Switch -->
+    <dimen name="switchPadding">96dp</dimen>
+
+    <!-- CardView -->
+    <dimen name="cardMargin">10dp</dimen>
+    <dimen name="cardPadding">20dp</dimen>
+    <dimen name="cardImgMargin">18dp</dimen>
+
+    <!--
+    #########################################
+                # Custom #
+    #########################################
+    -->
+
+    <dimen name="profileFieldImgSize">96dp</dimen>
+    <dimen name="profileFieldMargin">32dp</dimen>
+
+</resources>
